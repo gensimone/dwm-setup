@@ -1,0 +1,3 @@
+[submodule "status-bar"]
+	path = status-bar
+	url = https://github.com/gensimone/dwm-status-bar
