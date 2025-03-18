@@ -19,8 +19,8 @@ index 9efa774..4b44f75 100644
 -static const char col_gray3[]       = "#bbbbbb";
 -static const char col_gray4[]       = "#eeeeee";
 -static const char col_cyan[]        = "#005577";
-+static const char *fonts[]          = { "CascadiaCove NF:size=10.5" };
-+static const char dmenufont[]       = "CascadiaCove NF:size=10.5";
++static const char *fonts[]          = { "CascadiaCove NF:size=11.5" };
++static const char dmenufont[]       = "CascadiaCove NF:size=11.5";
 +static const char col_gray1[]       = "#282828"; /* norm bg */
 +static const char col_gray2[]       = "#282828"; /* norm border */
 +static const char col_gray3[]       = "#dfbf8e"; /* norm fg */
