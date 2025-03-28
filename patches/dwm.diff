@@ -21,7 +21,7 @@ index 9efa774..ee82cf1 100644
 -static const char col_cyan[]        = "#005577";
 +static const int topbar             = 0;        /* 0 means bottom bar */
 +static const char *fonts[]          = { "DejaVuSansM Nerd Font:size=12" };
-+static const char dmenufont[]       = "DejaVuSansM Nerd Font:size=13.5";
++static const char dmenufont[]       = "DejaVuSansM Nerd Font:size=12";
 +static const char col_gray1[]       = "#000000"; /* norm bg */
 +static const char col_gray2[]       = "#000000"; /* norm border */
 +static const char col_gray3[]       = "#c7c7c7"; /* norm fg */
